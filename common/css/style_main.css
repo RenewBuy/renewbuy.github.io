@@ -1310,7 +1310,7 @@ button.ui-button-icon-only {
 }
 
 .page-title {
-    font-size: 22px;
+    font-size: 26px;
 }
 .page-subtitle {
     font-size: 18px;
@@ -1321,6 +1321,14 @@ button.ui-button-icon-only {
 .page-content {
     font-size: 15px;
     line-height: 1.5;
+}
+
+.page-content h1 {
+    font-size: 22px;
+}
+
+.page-content h2 {
+    font-size: 18px;
 }
 
 .page-content ol li {

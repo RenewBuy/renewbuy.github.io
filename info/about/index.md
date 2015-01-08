@@ -54,15 +54,3 @@ We have our own Insurance broking license and are fully authorized by IRDA to pr
         <td> +91 11 26502968 </td>
     </tr>
 </table>
-
-
-##The Team
-
-Mr. Balachander Sekhar – Mr Balachander Sekhar has more than 17 yrs of experience in Life and General Insurance along with Banking. He has served in a variety of roles in multiple organizations like Glaxo Smithkline, ABN Amro, Amercian Express. He has also served as the Principal Officer of Reliance Retail Insurance Broking ltd. In his last assignment, he was employed as the Director – Marketing & Strategy, PNB MetLife India Insurance Co Ltd. 
-
-Mr. Indraneel Chatterjee – Mr Indraneel Chatterjee is an Insurance Professional with 14 years of experience spanning across Life & General Insurance as well as in Insurance Broking companies. He has been at the forefront of Product Development in leading companies like ICICI Prudential Life Insurance, American Express and Reliance Retail Insurance Broking Ltd. In his last assignment he was employed as the Head of Products and Corporate Affairs in PNB MetLife India Insurance Co Ltd.
-
-Mr C.V. Raghu - Mr. C.V. Raghu currently heads the legal, regulatory and secretarial functions of Max India Limited and its subsidiaries. He has a rich and varied experience of 22 years in the legal domain that encompasses American Express Bank, Hindustan Unilever Limited and the CII. He has also served on the Boards of Tata Finance, American Express Services India Limited and TT Travels in the past.  Mr. Raghu has been a strong advocate of corporate governance practices that ensure businesses imbibe corporate governance in their culture and focus on creating wealth legally and ethically. A graduate in Law from the Faculty of Law, Delhi University, he is a trained Six-Sigma Black Belt and a Member of International Bar Association. He is a member of the Board and plays a pivotal role in ensuring the highest levels of corporate governance at D2C Insurance Broking Pvt Ltd.  
-
-Mr. Ankur Rajgarhia – Mr Ankur Rajgarhia is a seasoned finance professional with over 11 years of experience in the industry across some of the finest institutions like American Express, AIG and Reliance Retail Insurance Broking Ltd. Experience cuts across product development and management, business analytics, distribution channel management and sales. Also have an in-depth knowledge of the P&L, which provides an edge in taking more informed decisions keeping the holistic scenario in mind. Ankur is a commerce graduate from Delhi University and an M.B.A from Management Development Institute Gurgaon with concentration in Finance and Marketing. Mr Rajgarhia is also the Principal Officer of the M/S D2C Insurance Broking Pvt Ltd.
-
