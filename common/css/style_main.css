@@ -1319,8 +1319,8 @@ button.ui-button-icon-only {
 }
 
 .page-content {
-    font-size: 16px;
-    line-height: 1.3;
+    font-size: 15px;
+    line-height: 1.5;
 }
 
 .page-content ol li {
@@ -1350,4 +1350,10 @@ button.ui-button-icon-only {
     padding-left: 10px;
     padding-right: 30px;
     border: 1px solid #ccc;
+}
+.page-content strong {
+    font-weight: bold;
+}
+.page-content em {
+    font-style: italic;
 }
