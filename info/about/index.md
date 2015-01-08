@@ -2,7 +2,6 @@
 layout: page
 title: About RenewBuy
 subtitle: The Motor Insurance specialist
-permalink: /about/
 ---
 
 Motor Insurance is a must in India. Knowing your Motor insurance is important. Dealing with experts helps find the right policy and ensure you are always protected.
